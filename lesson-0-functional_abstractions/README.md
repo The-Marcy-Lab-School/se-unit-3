@@ -37,6 +37,6 @@
 * **Reading:** Eloquent JavaScript - [Chapter 5: Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
 
 ## Learning Labs
-* Array Methods Practice 1 - Iteration, Map, Filter, Reduce
-* Array Methods Practice 2 - Interrogation, Sort 
+* [Array Methods Practice 1 - Iteration, Map, Filter, Reduce](https://github.com/The-Marcy-Lab-School/se-unit-3-structured_problem_solving/blob/master/lesson-0-functional_abstractions/practice/map-filter-reduce.md)
+* [Array Methods Practice 2 - Interrogation, Sort](https://github.com/The-Marcy-Lab-School/se-unit-3-structured_problem_solving/blob/master/lesson-0-functional_abstractions/practice/interrogation-sort.md) 
 * Problem Set 3.0
