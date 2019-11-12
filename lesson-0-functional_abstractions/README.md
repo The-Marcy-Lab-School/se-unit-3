@@ -12,6 +12,7 @@
 * abstraction
 * first-class functions
 * higher-order functions
+* callback function
 * functional programming
 * programming _paradigm_
 * pure function
@@ -35,4 +36,7 @@
 * **Video:** [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * **Reading:** Eloquent JavaScript - [Chapter 5: Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
 
-##
+## Learning Labs
+* Array Methods Practice 1 - Iteration, Map, Filter, Reduce
+* Array Methods Practice 2 - Interrogation, Sort 
+* Problem Set 3.0
