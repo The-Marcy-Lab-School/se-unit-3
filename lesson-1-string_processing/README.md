@@ -1,0 +1,35 @@
+# Unit 3 - Lesson 1
+## Regular Expressions and String Processing
+
+### Essential Questions
+* What are regular expressions are what are they used for?
+* How do we test for the _presence_ of a string pattern using regular expressions?
+* How do we _capture_ string patterns using regular expressions?
+* How do we _transform_ strings using regular expressions?
+* What are the key JavaScript `String` and `RegExp` prototype methods?  
+### Vocabulary
+* Regular Expression
+* Character Class
+* Anchors
+* Quantifiers
+* Capture Group
+
+### Key Methods
+* `String.prototype.indexOf`
+* `String.prototype.split`
+* `String.prototype.substring`
+* `String.prototype.includes`
+* `String.prototype.replace`
+* `String.prototype.match`
+* `RegExp.prototype.test`
+* `RegExp.prototype.exec`
+
+### Learning Assignments
+* **Tutorial:** [Regular Expressions in JavaScript](https://teamtreehouse.com/library/regular-expressions-in-javascript)
+* **Book:** [Introduction to Regular Expressions](https://launchschool.com/books/regex/read/introduction) by Launch School
+
+### Learning Labs
+* **Practice**: Using Regular Expressions in Ruby and JavaScript - [Exercises](https://launchschool.com/books/regex/read/using#exercises)
+* **Problem Set 3.1**
+
+
