@@ -16,7 +16,7 @@
 
 ### Learning Labs
 * [Problem Set 3.2](https://github.com/The-Marcy-Lab-School/problem-set-3_2)
-* Problem Set 3.2.1 - Interpretive Problem Solving
+* [Problem Set 3.2.1](https://github.com/The-Marcy-Lab-School/problem-set-3_2_1) - Interpretive Problem Solving
 * **Optional:** Problem Set 3.2.1 - Interpretive Problem Solving (Advanced)
 
 ##  
