@@ -7,6 +7,7 @@
 * How do we _capture_ string patterns using regular expressions?
 * How do we _transform_ strings using regular expressions?
 * What are the key JavaScript `String` and `RegExp` prototype methods?  
+
 ### Vocabulary
 * Regular Expression
 * Character Class
