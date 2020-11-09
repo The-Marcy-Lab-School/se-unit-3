@@ -206,3 +206,4 @@ Try to implement the following functions using .reduce(). If you are having trou
       // }
       ```
 
+Resist the urge to look at the answer until you are finished with all the problems. You can find the answers [here](https://github.com/The-Marcy-Lab-School/se-unit-3/blob/master/lesson-0-functional_abstractions/practice/map-filter-reduce-ANSWERS.js)
