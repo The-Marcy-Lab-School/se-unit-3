@@ -73,4 +73,4 @@
       //  { name: 'StudentA', grade: 90.1 }]
 
  
-
+Resist the urge to look at the answer until you are finished with all the problems. You can find the answer [here](https://github.com/The-Marcy-Lab-School/se-unit-3/blob/master/lesson-0-functional_abstractions/practice/interrogation-sort-ANSWERS.js)
