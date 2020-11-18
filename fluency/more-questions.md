@@ -22,7 +22,7 @@ absolute([4, -2, 7, 9, -4, -3]); // [4, 2, 7, 9, 4, 3]
 
 5. Write a function that sorts an array of people objects by their age with the oldest first and the yougest last:
 ```js
-let people = [{name: "Paul", age: 5}, {name: "Carmen", age: 1}, {name: "Steph", age: 10}, {name: "Anne", age: 3}];
+const people = [{name: "Paul", age: 5}, {name: "Carmen", age: 1}, {name: "Steph", age: 10}, {name: "Anne", age: 3}];
 sortOldest(people);
 // [{name: "Steph", age: 10}, {name: "Paul", age: 5}, {name: "Anne", age: 3}, {name: "Carmen", age: 1}]
 ```
