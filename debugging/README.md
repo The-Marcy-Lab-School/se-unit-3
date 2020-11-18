@@ -17,25 +17,3 @@ Your task: another developer wrote an application to build a lottery application
 
 Repeat steps 1-4 until your program works as intended!
 
-
-### SOLUTION
-
-1. `Uncaught SyntaxError: Unexpected end of input`
-2. Line 20
-3. Add a closing bracket to the `if` statement that was missing. 
-
-1. Uncaught ReferenceError: Cannot access 'getRandomNumber' before initialization
-2. Line 4
-3. Move the definition of `getRandomNumber` to before `runApp` is called
-
-1. Uncaught ReferenceError: Cannot access 'getMessage' before initialization
-2. Line 9
-3. Move the definition of `getMessage` to before `runApp` is called
-
-1. Uncaught TypeError: Math.rand is not a function
-2. Line 4
-3. There isn't a `Math.rand` function. A quick google search confirms it should be `Math.random`. 
-
-1. Uncaught TypeError: Math.flour is not a function
-2. Line 4
-3. There isn't a `Math.flour` function. A quick google search confirms it should be `Math.floor`. 
