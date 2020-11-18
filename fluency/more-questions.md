@@ -1,6 +1,6 @@
 # More Fluency Practice
 
-1. Write a function that takes an array of numbers and returns a new array containing perfect squares:
+1. Write a function that takes an array of numbers and returns a new array containing only the perfect squares:
 ```js
 findSquares([1, 3, 4, 7, 9, 12, 15, 25]); // [1, 4, 9, 25]
 ```
