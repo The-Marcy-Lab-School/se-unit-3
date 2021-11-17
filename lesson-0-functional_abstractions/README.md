@@ -31,7 +31,7 @@
 
 ## Learning Assignments
 * **Reading:** Eloquent JavaScript - [Chapter 5: Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
-* **Tutorial:** [JavaScript Array Iteration Methods](https://teamtreehouse.com/library/javascript-array-iteration-methods)
+* **Tutorial:** [How To Use Array Methods in JavaScript: Iteration Methods](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods)
 * **Article:** [Concepts of Functional Programming in JavaScript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 * **Article:** [An Introduction to First-Class Functions](https://medium.com/launch-school/javascript-weekly-an-introduction-to-first-class-functions-9d069e6fb137)
 * **Video:** [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
