@@ -26,8 +26,9 @@
 * `RegExp.prototype.exec`
 
 ### Learning Assignments
-* **Tutorial:** [Regular Expressions in JavaScript](https://teamtreehouse.com/library/regular-expressions-in-javascript)
+* **Eloquent JS:** [Regular Expressions](https://eloquentjavascript.net/09_regexp.html)
 * **Book:** [Introduction to Regular Expressions](https://launchschool.com/books/regex/read/introduction) by Launch School
+* **Video:** [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk&ab_channel=WebDevSimplified)
 
 ### Learning Labs
 * **Practice**: Using Regular Expressions in Ruby and JavaScript - [Exercises](https://launchschool.com/books/regex/read/using#exercises)
