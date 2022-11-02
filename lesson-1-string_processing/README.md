@@ -31,7 +31,7 @@
 * **Video:** [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk&ab_channel=WebDevSimplified)
 
 ### Practice 
-* **Practice**: Using Regular Expressions in Ruby and JavaScript - [Exercises](https://launchschool.com/books/regex/read/using#exercises)
-* **Extra Practice**: [3.1 Exercises](https://github.com/The-Marcy-Lab-School/se-unit-3/tree/master/lesson-1-string_processing/practice)
+* **Practice**: [Exercises](https://github.com/The-Marcy-Lab-School/se-unit-3/tree/master/lesson-1-string_processing/practice)
+* **Launch School Practice**: Using Regular Expressions in Ruby and JavaScript - [Exercises](https://launchschool.com/books/regex/read/using#exercises)
 
 
