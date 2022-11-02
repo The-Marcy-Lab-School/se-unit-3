@@ -36,7 +36,6 @@
 * **Article:** [Concepts of Functional Programming in JavaScript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 * **Article:** [An Introduction to First-Class Functions](https://medium.com/launch-school/javascript-weekly-an-introduction-to-first-class-functions-9d069e6fb137)
 * **Video:** [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
-* [**Lesson Slides**](https://docs.google.com/presentation/d/14bX3QWVcgiMcuRgi7XHY7t5ackVVq2ysIIcqhXIWKqM/edit?usp=sharing)
 
 ## Practice
 * [Array Methods Practice 1 - Iteration, Map, Filter, Reduce](https://github.com/The-Marcy-Lab-School/se-unit-3-structured_problem_solving/blob/master/lesson-0-functional_abstractions/practice/map-filter-reduce.md)
