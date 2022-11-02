@@ -13,7 +13,6 @@
 
 ### Learning Assignments
 * **Article:** [Solving Coding Problems with PEDAC](https://medium.com/launch-school/solving-coding-problems-with-pedac-29141331f93f)
-* **Article:** [Debugging JavaScript in Browser](https://www.programiz.com/javascript/debugging)
 
 ### Practice 
 * [PhoneNumber Practice](./practice/phone-number.js)
