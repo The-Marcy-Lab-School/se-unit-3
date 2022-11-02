@@ -27,12 +27,11 @@
 
 ### Learning Assignments
 * **Eloquent JS:** [Regular Expressions](https://eloquentjavascript.net/09_regexp.html)
-* **Book:** [Introduction to Regular Expressions](https://launchschool.com/books/regex/read/introduction) by Launch School
+* **Book:** [Introduction to Regular Expressions](https://launchschool.com/books/regex/) by Launch School. You should read the entire **Getting Started** and **Regular Expressions** sections. 
 * **Video:** [Learn Regular Expressions In 20 Minutes](https://www.youtube.com/watch?v=rhzKDrUiJVk&ab_channel=WebDevSimplified)
 
-### Learning Labs
+### Practice 
 * **Practice**: Using Regular Expressions in Ruby and JavaScript - [Exercises](https://launchschool.com/books/regex/read/using#exercises)
 * **Extra Practice**: [3.1 Exercises](https://github.com/The-Marcy-Lab-School/se-unit-3/tree/master/lesson-1-string_processing/practice)
-* **Problem Set 3.1** on Canvas
 
 

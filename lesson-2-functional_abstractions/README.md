@@ -1,4 +1,5 @@
-# Unit 3 - Lesson 0
+# Unit 3 - Lesson 2
+
 ## List Processing and Functional Abstractions in JavaScript
 
 ### Essential Questions
@@ -40,4 +41,3 @@
 ## Learning Labs
 * [Array Methods Practice 1 - Iteration, Map, Filter, Reduce](https://github.com/The-Marcy-Lab-School/se-unit-3-structured_problem_solving/blob/master/lesson-0-functional_abstractions/practice/map-filter-reduce.md)
 * [Array Methods Practice 2 - Interrogation, Sort](https://github.com/The-Marcy-Lab-School/se-unit-3-structured_problem_solving/blob/master/lesson-0-functional_abstractions/practice/interrogation-sort.md) 
-* Problem Set 3.0 on Canvas

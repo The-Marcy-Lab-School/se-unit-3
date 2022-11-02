@@ -1,4 +1,4 @@
-# Unit 3 - Lesson 2
+# Unit 3 - Lesson 0
 ## PEDAC: A Structured Problem-Solving Approach
 
 ### Key Terms
@@ -14,9 +14,6 @@
 ### Learning Assignments
 * **Article:** [Solving Coding Problems with PEDAC](https://medium.com/launch-school/solving-coding-problems-with-pedac-29141331f93f)
 
-### Learning Labs
-* Problem Set 3.2 on Canvas
-* Problem Set 3.2.1 (Interpretive Problem Solving) on Canvas
 
-##  
+
 <sup>PEDAC Approach and Practice Problems come from [Launch School](https://launchschool.com)</sup>
