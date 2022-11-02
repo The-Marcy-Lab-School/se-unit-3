@@ -14,6 +14,5 @@
 ### Learning Assignments
 * **Article:** [Solving Coding Problems with PEDAC](https://medium.com/launch-school/solving-coding-problems-with-pedac-29141331f93f)
 
-
-
-<sup>PEDAC Approach and Practice Problems come from [Launch School](https://launchschool.com)</sup>
+### Practice 
+* 
