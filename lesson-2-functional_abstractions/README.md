@@ -31,10 +31,10 @@
 * `Array.prototype.every()`
 
 ## Learning Assignments
+* **Article:** [Functional Programming with JavaScript](https://www.telerik.com/blogs/functional-programming-javascript)
 * **Article:** [An Introduction to First-Class Functions](https://medium.com/launch-school/javascript-weekly-an-introduction-to-first-class-functions-9d069e6fb137)
 * **Reading:** Eloquent JavaScript - [Chapter 5: Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html)
 * **Tutorial:** [How To Use Array Methods in JavaScript: Iteration Methods](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods)
-* **Article:** [Concepts of Functional Programming in JavaScript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
 ## Practice
 * [Array Methods Practice 1 - Iteration, Map, Filter, Reduce](./practice/map-filter-reduce.md)
