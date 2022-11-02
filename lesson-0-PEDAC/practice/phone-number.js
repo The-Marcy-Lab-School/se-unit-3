@@ -36,7 +36,7 @@ Algorithm
     - if true, return '0000000000'
  3. Check if strippedStr.length === 11 && first digit of strippedStr !== 1
     - if true, return '0000000000'
- 4. return strippedStr.
+ 4. return the last 10 digits of strippedStr.
 */
 
 
